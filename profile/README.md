@@ -1,4 +1,4 @@
-# .github
+# ECLEKTE
 
 ECLEKTE is a cooperative that aims to contribute to the training and energy empowerment of individuals, associations and SMEs through actions, services and energy efficiency projects. It was created in 2021 with the aim of ensuring that the new electricity tariffs have a minimal impact on the pockets of society and that each person becomes an active agent to achieve the energy transition.
 
